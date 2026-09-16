@@ -1,4 +1,4 @@
-# Relocate
+# Travel
 
 A travel and relocation website for exploring destinations and discovering city information.
 
